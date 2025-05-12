@@ -35,7 +35,7 @@ def animation_function(i):
 
 animation = FuncAnimation(figure,
                           func = animation_function,
-                          frames = np.arange(0, 20*np.pi, 0.1),			# How long you want the simple pendulum to oscillate. 
+                          frames = np.arange(0, 20*np.pi, 0.1),			# How long you want the coupled pendulum to oscillate. 
                           interval = 20*np.pi)
                           
 # Set axes labels and title
