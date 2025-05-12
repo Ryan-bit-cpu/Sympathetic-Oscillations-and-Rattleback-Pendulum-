@@ -29,7 +29,7 @@ If we change lengths l1 = 8 and l2 = 5, then the ampitudes creates an oscillatin
 
 ### Link to Youtube Video ###
 
-I have built a coupled pendulum and rattleback pendulum using my Dad's old carpentry tools out cedar and walnut that has been milled. In the videos, I use camping rope and 2 lbs. fishing weights, a nail, and 10 washers. 
+I have built a coupled pendulum and rattleback pendulum using my Dad's old carpentry tools out of cedar and walnut that has been milled. In the videos, I used a camping rope and 2 lbs. fishing weights, a nail, and 10 washers. 
 The nail and ten washers of the rattleback pendulum shifts the center mass of the hanging mass off of the center of the hanging mass. The hanging mass oscillates clockwise, then oscillates counter-clockwise, then back to clockwise, and so on till friction slows the motion down.
 
 https://youtu.be/TzDIh8okEC8
